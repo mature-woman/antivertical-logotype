@@ -3,7 +3,7 @@
 1. Pure CSS 🤟
 2. Insane speed ⚡️
 3. Real time tuning 🛹 
-4. Fuck capitalism ✅
+4. It is not a sharingan
 
 see you later<br>
 [Antivertical](https://git.svoboda.works/svoboda/antivertical), [CodePen](https://codepen.io/mirzaev-sexy/pen/zxxPgyw)
