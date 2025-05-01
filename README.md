@@ -111,11 +111,10 @@ svg#antivertical > circle.synapse {
   fill: transparent;
 }
 
-svg#antivertical > circle.node,
-svg#antivertical > mask > circle.node {
+svg#antivertical circle.node {
   r: var(--node-radius);
   stroke-width: var(--node-stroke);
-  stroke: #000;
+  stroke: black;
   fill: transparent;
 }
 
@@ -128,23 +127,20 @@ svg#antivertical > circle.core {
   fill: black;
 }
 
-svg#antivertical > circle.node:nth-of-type(1),
-svg#antivertical > circle.core:nth-of-type(4),
-svg#antivertical > mask > circle.node:nth-of-type(1) {
+svg#antivertical circle.node:nth-of-type(1),
+svg#antivertical > circle.core:nth-of-type(4) {
   cx: var(--x1);
   cy: var(--y1);
 }
 
-svg#antivertical > circle.node:nth-of-type(2),
-svg#antivertical > circle.core:nth-of-type(5),
-svg#antivertical > mask > circle.node:nth-of-type(2) {
+svg#antivertical circle.node:nth-of-type(2),
+svg#antivertical > circle.core:nth-of-type(5) {
   cx: var(--x2);
   cy: var(--y2);
 }
 
-svg#antivertical > circle.node:nth-of-type(3),
-svg#antivertical > circle.core:nth-of-type(6),
-svg#antivertical > mask > circle.node:nth-of-type(3) {
+svg#antivertical circle.node:nth-of-type(3),
+svg#antivertical > circle.core:nth-of-type(6) {
   cx: var(--x3);
   cy: var(--y3);
 }
