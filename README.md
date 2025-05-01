@@ -1,4 +1,4 @@
-# Antivertical logotype
+# [Antivertical](https://git.svoboda.works/svoboda/antivertical) logotype
 
 1. Pure CSS 🤟
 2. Insane speed ⚡️
@@ -6,10 +6,12 @@
 4. Fuck capitalism ✅
 
 see you later<br>
-[CodePen](https://codepen.io/mirzaev-sexy/pen/zxxPgyw)
+[Antivertical](https://git.svoboda.works/svoboda/antivertical), [CodePen](https://codepen.io/mirzaev-sexy/pen/zxxPgyw)
 
+## Demonstration
 ![logotype_optimized_looped.gif](/assets/logotype_optimized_looped.gif)
 
+## Code 
 ```html
 <svg id="antivertical">
   <circle class="node" />
